@@ -17,4 +17,7 @@ public class Ticket {
     private String sourceStation;
     private String destinationStation;
     private Double price;
+    private Boolean paymentStatus;
+    private String ticketStatus;
+    private String seatNumber;
 }
